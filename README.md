@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter<br>👯 I’m looking to collaborate on web devlopment projectd<br>🌱 I’m currently learning flutter as in <br>💬 Ask me about Java, C , data structures<br>⚡ Fun fact ik graphic design
+🔭 <br>👯 I’m looking to collaborate on web devlopment project<br>🌱 I’m currently learning flutter  <br>💬 Ask me about Java, C , data structures<br>⚡ Fun fact ik graphic design
 
 
 # 💻 Tech Stack:
